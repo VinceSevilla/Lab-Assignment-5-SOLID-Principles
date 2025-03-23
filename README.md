@@ -1,7 +1,7 @@
 # Lab-Assignment-5-SOLID-Principles
 
 # 1. The following object violates Single Responsibility Principle (SRP). Make the adjustment in a form of java code to correct the violation. (25 points) 
-![Image](https://github.com/user-attachments/assets/ca0f45f4-784a-4145-b40d-4de710c7c33f)
+![Image](https://github.com/user-attachments/assets/c003a055-5d4d-4e27-921d-9463374f76ee)
 
 # 2. The following code violates the Open/Close Principle.  Refactor the program to remove the violation (25 points).  
 public class Customer { 
@@ -28,6 +28,8 @@ public class Customer {
     return amount - calculateDiscount(amount); 
   } 
 } 
+![Image](https://github.com/user-attachments/assets/2925cb64-683d-4bca-88df-b27e68355005)
+
 
 # 3. The following design has the following problem: 
 ● The SmartPhone interface defines methods for making calls, sending SMS, 
@@ -58,6 +60,7 @@ public class PaymentProcessor {
     } 
   } 
 } 
+![Image](https://github.com/user-attachments/assets/9bcbfd62-93c6-4ee4-89dc-13dd9d537eb9)
 
 # Naming Conventions: 
 1. Class name must be a NOUN (singular) 
